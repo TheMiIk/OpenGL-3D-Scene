@@ -5,3 +5,5 @@ A 3D Scene created in C++ with OpenGL freeglut that also features camera control
 ## Camera Controls
 - W and S are used for the zoom levels
 - A and D are used for the angles
+
+![House](house.png)
